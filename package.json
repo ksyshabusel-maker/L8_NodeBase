@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ksyshabusel-maker/L8_NodeBase#readme",
   "dependencies": {
-    "dotenv": "^17.2.3"
+    "dotenv": "^17.2.3",
+    "node-fetch": "^3.3.2"
   }
 }
